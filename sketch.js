@@ -119,7 +119,7 @@ function draw() {
     }
     pop();
     
-        // mountain green
+    // mountain green
     push();
     stroke(9, 112, 0);
     translate(-100, height / 2.5);
@@ -132,7 +132,7 @@ function draw() {
     }
     pop();
     
-            // mountain green
+    // mountain green
     push();
     stroke(9, 112, 31);
     translate(-100, height / 3);
